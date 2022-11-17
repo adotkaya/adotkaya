@@ -20,7 +20,7 @@
 <a href="https://instagram.com/adotkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adotkaya" height="30" width="40" /></a>
 </p>
 
-<a href="https://adotkaya.github.io/"> <img src="https://github.com/adotkaya/adotkaya.github.io/blob/main/resources/images/website.jpg" alt="Version 0.1" title="Version 0.1"> </a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
