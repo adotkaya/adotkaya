@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alkım Kaya</h1>
-<h3 align="center">Junior Computer Science Student from İzmir, Turkey</h3>
+<h3 align="center">Senior Computer Science Student from İzmir, Turkey</h3>
 
 
 <p align="left"> <a href="https://twitter.com/adotkaya" target="blank"><img src="https://img.shields.io/twitter/follow/adotkaya?logo=twitter&style=for-the-badge" alt="adotkaya" /></a> </p>
