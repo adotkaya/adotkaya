@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/alkimkaya/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wO9EW5-Y4TE7I9GJ6WP2HuP2KkxfRq21/view?usp=sharing](https://drive.google.com/file/d/1wO9EW5-Y4TE7I9GJ6WP2HuP2KkxfRq21/view?usp=sharing)
+- 📄 Know about my experiences [adotkaya.vercel.app](adotkaya.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
