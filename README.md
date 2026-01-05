@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alkım Kaya</h1>
-<h3 align="center">Junior Backend Developer from İzmir, Turkey</h3>
+<h3 align="center">Backend Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/adotkaya](https://github.com/adotkaya)  [https://github.com/drazan344](https://github.com/drazan344)
+- 👨‍💻 All of my projects are available at [https://github.com/adotkaya](https://github.com/adotkaya)
 
 - 📫 How to reach me **https://www.linkedin.com/in/alkimkaya/**
-
-- 📄 Know about my experiences **https://adotkaya.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
