@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alkım Kaya</h1>
+<h1 align="center">Alkım Kaya</h1>
 <h3 align="center">Backend Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/adotkaya](https://github.com/adotkaya)
